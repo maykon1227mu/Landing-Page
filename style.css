@@ -7,7 +7,7 @@
 body {
     /* background-color: #5271ff; */
     font-family: 'Poppins';
-    background: url(/assents/fundo.jpg);
+    background: url(./assents/fundo.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ body {
     position: relative;
 }
 .trilho .indicador {
-    background: url(/assents/fundo.jpg);
+    background: url(./assents/fundo.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@ body {
 .trilho.dark .indicador {
     left: 30px;
     background-color: rgb(112, 112, 112);
-    background: url(/assents/fundored.jpg);
+    background: url(./assents/fundored.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ body {
     background-color: rgba(82, 17, 17, 0.692);
 }
 body.dark {
-    background: url(/assents/fundored.jpg);
+    background: url(./assents/fundored.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
